@@ -1,0 +1,131 @@
+html {
+    margin-left: 2%;
+    margin-right: 4%;
+}
+
+.partiephoto {
+    width: 2;
+    height: 8em;
+}
+
+/*****************EXPERIENCE****1ER PARAGRAPHE***************************************/
+
+
+.entetedroit {
+    padding-left: 10.4em;
+    margin-top: -10em;
+}
+
+.titreposte {
+    margin-top: -1%;
+}
+
+.cordo {
+display: flex;
+justify-content: space-between;
+}
+
+.date1 {
+    text-align: right;
+    margin-top: 
+  
+}
+
+.soustitre {               
+    padding-left: 10.4em;
+    margin-top: -5.5em;
+}
+
+.titrepost2 {
+    padding-top: -5em;
+}
+
+/****************EXPERIENCE 2EME PARAGRAPHE*****************************************/
+
+.date2 {
+    text-align: right;
+}
+
+.paragraphe2 {
+    padding-left: 10.4em;
+    margin-top: -4em;
+}
+
+/******************EXPERIENCE 3EME PARAGRAPHE***************/
+
+.date3 {
+    text-align: right;
+}
+
+.soustitre2 {
+    padding-left: 10.4em;
+    margin-top: -4em;
+}
+
+/************************EDUCATION*************************/
+
+.date4 {
+    text-align: right;
+    margin-top: -1.0em;
+}
+
+.soustitre3 {
+    padding-left: 10.4em;
+    margin-top: -4em;
+}
+
+/************************SKILLS******************************/
+
+.listes {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 9.5em;
+    margin-right: 9.5em;
+    margin-top: -2.5em;
+}
+
+.paragkills {
+    margin-left: 10.4em;
+}
+
+/**********************INTERRETS****************************/
+
+.listeinterrets {
+    display: flex;
+    justify-content: space-around;
+}
+
+/*********************REFERENCES***********************************/
+
+.soustritrereference {
+    padding-left: 10.4em;
+    margin-top: -2.8em;
+}
+.sstitref {
+    margin-top: -1em;
+}
+
+.cordo2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8em;
+    margin-right: 8em;
+}
+
+.paragrfin {
+    margin-left: 10.4em;
+}
+
+/****************************TRAIT**HORIZONTAL*********************/
+
+.marge1 {
+    margin-left: 10.4em;
+}
+
+.marge2 {
+    margin-left: 10.4em;
+}
+
+.marge {
+    margin-left: 10.4em;
+}
